@@ -17,3 +17,4 @@ v = v + c1*rand*(pBest – p) + c2*rand*(gBest – p);
 p = p + v;
 end
 end
+
